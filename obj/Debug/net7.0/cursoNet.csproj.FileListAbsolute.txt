@@ -1,0 +1,15 @@
+C:\Users\Rober\cursoNet\bin\Debug\net7.0\cursoNet.exe
+C:\Users\Rober\cursoNet\bin\Debug\net7.0\cursoNet.deps.json
+C:\Users\Rober\cursoNet\bin\Debug\net7.0\cursoNet.runtimeconfig.json
+C:\Users\Rober\cursoNet\bin\Debug\net7.0\cursoNet.dll
+C:\Users\Rober\cursoNet\bin\Debug\net7.0\cursoNet.pdb
+C:\Users\Rober\cursoNet\obj\Debug\net7.0\cursoNet.csproj.AssemblyReference.cache
+C:\Users\Rober\cursoNet\obj\Debug\net7.0\cursoNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rober\cursoNet\obj\Debug\net7.0\cursoNet.AssemblyInfoInputs.cache
+C:\Users\Rober\cursoNet\obj\Debug\net7.0\cursoNet.AssemblyInfo.cs
+C:\Users\Rober\cursoNet\obj\Debug\net7.0\cursoNet.csproj.CoreCompileInputs.cache
+C:\Users\Rober\cursoNet\obj\Debug\net7.0\cursoNet.dll
+C:\Users\Rober\cursoNet\obj\Debug\net7.0\refint\cursoNet.dll
+C:\Users\Rober\cursoNet\obj\Debug\net7.0\cursoNet.pdb
+C:\Users\Rober\cursoNet\obj\Debug\net7.0\cursoNet.genruntimeconfig.cache
+C:\Users\Rober\cursoNet\obj\Debug\net7.0\ref\cursoNet.dll
